@@ -1,0 +1,21 @@
+p{
+    text-align: center;
+    background-color: lightblue;
+}
+
+h1{
+    text-align: center;
+    margin-top: 10px;
+    font-size:50px;
+    font-weight:bolder;
+    color:black;
+   
+}
+
+a{
+    text-align: center;
+    font-size: 20px;
+    font-weight:bolder;
+    color:rgb(3, 0, 1);
+    
+}
